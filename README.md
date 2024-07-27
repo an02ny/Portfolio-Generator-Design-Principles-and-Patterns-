@@ -1,1 +1,1 @@
-# Portfolio-Generator-Design-Principles-and-Patterns-
+# Portfolio Generator using Design Principles and Patterns
